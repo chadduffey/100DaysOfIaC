@@ -51,6 +51,8 @@ sudo rm packages-microsoft-prod.deb
 
 ```
 
+Had some trouble, it was because 20.04 was not supported yet. This article helped: https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6
+
 Run the following command to get into a PowerShell prompt.
 
 ```bash
