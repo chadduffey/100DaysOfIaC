@@ -103,6 +103,6 @@ Done | Subject | Article Link  |
 || Intro to ARM and JSON | [Day 5 - Getting to Know ARM and JSON](/articles/day.5.getting.to.know.arm.and.json.md) |
 || Password Based Service Principal (Linux) | [Day 4 - Creating a Service Principal in Azure in plain English (Linux Edition)](/articles/day.4.creating.a.service.principal.linux.in.plain.english.md) |
 || Writing Documentation in VSCode | [Day 3 - Documenting your work in style with VS Code](/articles/day.3.doc.in.style.md) |
-|| Initial App(s) Installs on Windows | [Day 2 - Getting Organized (Windows)](/articles/day.2.getting.organized.windows.md) |
+|X| Initial App(s) Installs on Windows | [Day 2 - Getting Organized (Windows)](/articles/day.2.getting.organized.windows.md) |
 |X| Initial App(s) Installs on Linux | [Day 1 - Getting Organized (Linux)](/articles/day.1.getting.organized.md) |
 |X| Series Announcement | [Announcing 100 Days of IaC in Azure](/articles/Day.0.Intro.md) |
