@@ -102,7 +102,7 @@ Done | Subject | Article Link  |
 || Password Based Service Principal (Windows) | [Day 6 - Creating a Service Principal in Azure in plain English (Windows Edition)](/articles/day.6.creating.a.service.principal.windows.in.plain.english.md) |
 || Intro to ARM and JSON | [Day 5 - Getting to Know ARM and JSON](/articles/day.5.getting.to.know.arm.and.json.md) |
 || Password Based Service Principal (Linux) 
-|X| [Day 4 - Creating a Service Principal in Azure in plain English (Linux Edition)](/articles/day.4.creating.a.service.principal.linux.in.plain.english.md) |
+|X| Creating a Service Principal in Azure in plain English| [Day 4 - Creating a Service Principal in Azure in plain English (Linux Edition)](/articles/day.4.creating.a.service.principal.linux.in.plain.english.md) |
 |X| Writing Documentation in VSCode | [Day 3 - Documenting your work in style with VS Code](/articles/day.3.doc.in.style.md) |
 |X| Initial App(s) Installs on Windows | [Day 2 - Getting Organized (Windows)](/articles/day.2.getting.organized.windows.md) |
 |X| Initial App(s) Installs on Linux | [Day 1 - Getting Organized (Linux)](/articles/day.1.getting.organized.md) |
