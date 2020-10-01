@@ -23,6 +23,10 @@ $Azure_SP = az ad sp create-for-rbac `
 --years 3
 ```
 
+Notes:
+- Need to `az login`
+- Need to `az account set --subscription "main-visual-studio"`
+
 *Note: When you don't supply a value for **--role**, then the Service Principal will be granted **contributor** rights across the entire Subscription. Additionally,the credentials are valid for 1 year by default*
 
 You should see the following output.
