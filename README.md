@@ -99,7 +99,7 @@ Done | Subject | Article Link  |
 || Cert Based Service Principal (Linux) | [Day 9 - Creating an Azure Service Principal that uses Certificate Authentication (Linux Edition)](/articles/day.9.creating.a.service.principal.cert.auth.linux.md) |
 || Terraform Overview | [Day 8 - Comparing Native Microsoft Options and Terraform for IaC Deployment](/articles/day.8.deploy.tech.comparison.md) |
 || Intro to Azure CLI in IaC | [Day 7 - Using Azure CLI in your Everyday IaC Strategy](/articles/day.7.using.azure.cli.in.your.everyday.iac.strategy.md) |
-|| Password Based Service Principal (Windows) | [Day 6 - Creating a Service Principal in Azure in plain English (Windows Edition)](/articles/day.6.creating.a.service.principal.windows.in.plain.english.md) |
+|X| Password Based Service Principal (Windows) | [Day 6 - Creating a Service Principal in Azure in plain English (Windows Edition)](/articles/day.6.creating.a.service.principal.windows.in.plain.english.md) |
 |X| Intro to ARM and JSON | [Day 5 - Getting to Know ARM and JSON](/articles/day.5.getting.to.know.arm.and.json.md) |
 |X| Password Based Service Principal (Linux) | [Day 4 - Creating a Service Principal in Azure in plain English (Linux Edition)](/articles/day.4.creating.a.service.principal.linux.in.plain.english.md) |
 |X| Writing Documentation in VSCode | [Day 3 - Documenting your work in style with VS Code](/articles/day.3.doc.in.style.md) |
