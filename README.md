@@ -97,7 +97,7 @@ Done | Subject | Article Link  |
 || Cert Based Service Principal (Windows) | [Day 11 - Creating an Azure Service Principal that uses Certificate Authentication (Windows Edition)](/articles/day.11.creating.a.service.principal.cert.auth.windows.md) |
 || Building block of IaC in Azure DevOps | [Day 10 - Building Blocks of CICD Strategy for IaC in Azure DevOps](/articles/day.10.cicd.iac.bldg.blocks.md) |
 || Cert Based Service Principal (Linux) | [Day 9 - Creating an Azure Service Principal that uses Certificate Authentication (Linux Edition)](/articles/day.9.creating.a.service.principal.cert.auth.linux.md) |
-|| Terraform Overview | [Day 8 - Comparing Native Microsoft Options and Terraform for IaC Deployment](/articles/day.8.deploy.tech.comparison.md) |
+|X| Terraform Overview | [Day 8 - Comparing Native Microsoft Options and Terraform for IaC Deployment](/articles/day.8.deploy.tech.comparison.md) |
 |X| Intro to Azure CLI in IaC | [Day 7 - Using Azure CLI in your Everyday IaC Strategy](/articles/day.7.using.azure.cli.in.your.everyday.iac.strategy.md) |
 |X| Password Based Service Principal (Windows) | [Day 6 - Creating a Service Principal in Azure in plain English (Windows Edition)](/articles/day.6.creating.a.service.principal.windows.in.plain.english.md) |
 |X| Intro to ARM and JSON | [Day 5 - Getting to Know ARM and JSON](/articles/day.5.getting.to.know.arm.and.json.md) |
