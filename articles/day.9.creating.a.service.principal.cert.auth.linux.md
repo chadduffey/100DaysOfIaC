@@ -45,7 +45,7 @@ openssl req \
 -nodes \
 -x509 \
 -days 365 \
--subj "/C=AT/ST=Styria/L=Graz/O=100 Days of IaC/OU=DevOps/CN=starkfell.github.io" \
+-subj "/C=AT/ST=Styria/L=Graz/O=100 Days of IaC/OU=DevOps/CN=duff.github.io" \
 -keyout key.pem \
 -out cert.pem && \
 cat key.pem > iac-sp-cert.pem && \
@@ -116,7 +116,7 @@ az login \
 --service-principal \
 -u http://iac-sp \
 -p iac-sp-cert.pem \
---tenant 00000000-0000-0000-0000-000000000000
+--tenant chadduffey.com
 ```
 
 You should get back the following response verifying that you are logged in to the Azure Subscriptions as the Service Principal.
