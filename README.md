@@ -96,7 +96,7 @@ Done | Subject | Article Link  |
 || CI in Azure Pipelines | [Day 12 - Intro to Continuous Integration in Azure Pipelines](/articles/day.12.contin.integration.md) |
 || Cert Based Service Principal (Windows) | [Day 11 - Creating an Azure Service Principal that uses Certificate Authentication (Windows Edition)](/articles/day.11.creating.a.service.principal.cert.auth.windows.md) |
 || Building block of IaC in Azure DevOps | [Day 10 - Building Blocks of CICD Strategy for IaC in Azure DevOps](/articles/day.10.cicd.iac.bldg.blocks.md) |
-|| Cert Based Service Principal (Linux) | [Day 9 - Creating an Azure Service Principal that uses Certificate Authentication (Linux Edition)](/articles/day.9.creating.a.service.principal.cert.auth.linux.md) |
+|X| Cert Based Service Principal (Linux) | [Day 9 - Creating an Azure Service Principal that uses Certificate Authentication (Linux Edition)](/articles/day.9.creating.a.service.principal.cert.auth.linux.md) |
 |X| Terraform Overview | [Day 8 - Comparing Native Microsoft Options and Terraform for IaC Deployment](/articles/day.8.deploy.tech.comparison.md) |
 |X| Intro to Azure CLI in IaC | [Day 7 - Using Azure CLI in your Everyday IaC Strategy](/articles/day.7.using.azure.cli.in.your.everyday.iac.strategy.md) |
 |X| Password Based Service Principal (Windows) | [Day 6 - Creating a Service Principal in Azure in plain English (Windows Edition)](/articles/day.6.creating.a.service.principal.windows.in.plain.english.md) |
