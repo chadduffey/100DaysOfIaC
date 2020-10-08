@@ -76,7 +76,7 @@ openssl req `
 -sha256 `
 -days 365 `
 -nodes `
--subj "/C=AT/ST=Styria/L=Graz/O=100 Days of IaC/OU=Bloggers/CN=starkfell.github.io" `
+-subj "/C=AT/ST=Styria/L=Graz/O=100 Days of IaC/OU=duff/CN=chadduffey.github.io" `
 -keyout key.pem `
 -out cert.pem ; `
 cat key.pem > iac-sp-cert.pem ; `
