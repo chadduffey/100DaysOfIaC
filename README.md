@@ -94,7 +94,7 @@ Done | Subject | Article Link  |
 || GIT on Linux | [Day 14 - GIT Started in Linux](/articles/day.14.git.started.in.linux.md) |
 || GIT on Windows | [Day 13 - GIT Started in VS Code (Windows Edition)](/articles/day.13.git.started.in.vs.code.windows.edition.md) |
 || CI in Azure Pipelines | [Day 12 - Intro to Continuous Integration in Azure Pipelines](/articles/day.12.contin.integration.md) |
-|| Cert Based Service Principal (Windows) | [Day 11 - Creating an Azure Service Principal that uses Certificate Authentication (Windows Edition)](/articles/day.11.creating.a.service.principal.cert.auth.windows.md) |
+|X| Cert Based Service Principal (Windows) | [Day 11 - Creating an Azure Service Principal that uses Certificate Authentication (Windows Edition)](/articles/day.11.creating.a.service.principal.cert.auth.windows.md) |
 |X| Building block of IaC in Azure DevOps | [Day 10 - Building Blocks of CICD Strategy for IaC in Azure DevOps](/articles/day.10.cicd.iac.bldg.blocks.md) |
 |X| Cert Based Service Principal (Linux) | [Day 9 - Creating an Azure Service Principal that uses Certificate Authentication (Linux Edition)](/articles/day.9.creating.a.service.principal.cert.auth.linux.md) |
 |X| Terraform Overview | [Day 8 - Comparing Native Microsoft Options and Terraform for IaC Deployment](/articles/day.8.deploy.tech.comparison.md) |
