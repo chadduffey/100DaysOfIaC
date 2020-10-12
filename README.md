@@ -92,7 +92,7 @@ Done | Subject | Article Link  |
 || IaC Best Practices | [Day 16 - Infrastructure-as-Code Strategies and Best Practices](/articles/day.16.org.your.iac.md) |
 || CI/CD Deployment Concepts | [Day 15 - Connecting Continuous Integration and Continuous Deployment](/articles/day.15.ci.pt2.md) |
 || GIT on Linux | [Day 14 - GIT Started in Linux](/articles/day.14.git.started.in.linux.md) |
-|| GIT on Windows | [Day 13 - GIT Started in VS Code (Windows Edition)](/articles/day.13.git.started.in.vs.code.windows.edition.md) |
+|X| GIT on Windows | [Day 13 - GIT Started in VS Code (Windows Edition)](/articles/day.13.git.started.in.vs.code.windows.edition.md) |
 |X| CI in Azure Pipelines | [Day 12 - Intro to Continuous Integration in Azure Pipelines](/articles/day.12.contin.integration.md) |
 |X| Cert Based Service Principal (Windows) | [Day 11 - Creating an Azure Service Principal that uses Certificate Authentication (Windows Edition)](/articles/day.11.creating.a.service.principal.cert.auth.windows.md) |
 |X| Building block of IaC in Azure DevOps | [Day 10 - Building Blocks of CICD Strategy for IaC in Azure DevOps](/articles/day.10.cicd.iac.bldg.blocks.md) |
